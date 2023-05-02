@@ -19,6 +19,10 @@ To ensure that messages are secure, the application provides two different encry
 selects an encryption method, the application generates a secret key and an initialization vector for that method. The
 key and initialization vector are then sent to the user, who can use them to encrypt and decrypt messages.
 
+![alt text](https://github.com/atikfirat/CryptMe/blob/main/demo/chat.png?raw=true)
+
+
+
 ## Features
 
 - AES encryption algorithm with 128-bit key size
@@ -33,7 +37,7 @@ key and initialization vector are then sent to the user, who can use them to enc
 
 ```
 Clone the repository or download the zip file.
-Compile with "javac *"
+Compile with "javac *.java"
 Rum the Server.java file to start the server.
 Run the Client.java file to start the client.
 ```
