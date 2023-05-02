@@ -41,3 +41,6 @@ Run the Client.java file to start the client.
 ![alt text](https://github.com/atikfirat/CryptMe/blob/main/demo/Server.png?raw=true)
 
 ## Demo
+
+![alt text](https://github.com/atikfirat/CryptMe/blob/main/demo/demo.gif?raw=true)
+
