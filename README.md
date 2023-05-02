@@ -36,10 +36,8 @@ Clone the repository or download the zip file.
 Compile with "javac *"
 Rum the Server.java file to start the server.
 Run the Client.java file to start the client.
+```
 
 ![alt text](https://github.com/atikfirat/CryptMe/blob/main/demo/Server.png?raw=true)
-
-
-```
 
 ## Demo
