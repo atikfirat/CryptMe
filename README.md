@@ -1,5 +1,7 @@
 # CryptMe
 
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Introduction
 
 **CryptMe** is a secure messaging application that allows users to communicate with each other in a private and
@@ -47,4 +49,8 @@ Run the Client.java file to start the client.
 ## Demo
 
 ![alt text](https://github.com/atikfirat/CryptMe/blob/main/demo/demo.gif?raw=true)
+
+## License
+
+**CryptMe** is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
